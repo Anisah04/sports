@@ -1,0 +1,14 @@
+name: "."
+title: "Anisahssports"
+description: |
+  sports
+output_dir: "docs"
+navbar:
+  right:
+    - text: "home"
+      href: index.html
+    - text: "info"
+      href: info.html
+    - text: "about"
+      href: about.html
+output: distill::distill_article
