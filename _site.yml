@@ -1,7 +1,7 @@
 name: "."
-title: "Anisahssports"
+title: "Anisahs sports"
 description: |
-  sports
+
 output_dir: "docs"
 navbar:
   right:
@@ -12,3 +12,4 @@ navbar:
     - text: "about"
       href: about.html
 output: distill::distill_article
+theme: my-theme.css

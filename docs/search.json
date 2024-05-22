@@ -5,15 +5,15 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-02-09T12:41:26+00:00"
+      "contents": "\nI made this website so that people can go on to our website and find out more information about our stores and our skateboards and skating equipment\n\n\n\n",
+      "last_modified": "2024-04-17T11:10:47+00:00"
     },
     {
       "path": "index.html",
       "title": "skateboards",
       "author": [],
-      "contents": "\n\n          \n          \n          Anisahssports\n          \n          \n          home\n          info\n          about\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              skateboards\n            \n            \n              \n                \n                    \n                      \n                        <i class=“fa-solid fa-arrow-up fa-rotate-by”\n                        style=“color: #000000; –fa-rotate-angle:\n                        55deg;”“>\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            welcome\n            we at skateboards sell equipment for all types of skaters\n            😄\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              skateboards\n            \n            \n              \n                \n                                    \n                    \n                      <i class=“fa-solid fa-arrow-up fa-rotate-by”\n                      style=“color: #000000; –fa-rotate-angle:\n                      55deg;”“>\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              welcome\n              we at skateboards sell equipment for all types of\n              skaters 😄\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-02-09T12:48:22+00:00"
+      "contents": "\n\n          \n          \n          Anisahs sports\n          \n          \n          home\n          info\n          about\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              skateboards\n            \n            \n              \n                \n                    \n                      \n                        \n                        instagram\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            welcome\n            we at skateboards sell equipment for all types of skaters\n            😄\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              skateboards\n            \n            \n              \n                \n                                    \n                    \n                      \n                      instagram\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              welcome\n              we at skateboards sell equipment for all types of\n              skaters 😄\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-04-24T11:08:31+00:00"
     },
     {
       "path": "info.html",
@@ -21,8 +21,8 @@
       "description": "Skateboarding is fun\n",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\nSkateboarding may be fun but you can get hurt so buy at skateboards safety equipment.\n\n\n\n",
-      "last_modified": "2024-02-09T12:41:27+00:00"
+      "contents": "\nSkateboarding may be fun but you can get hurt so buy at skateboards safety equipment.We sell more equipment for other sports but mostly skateboarding tools.Cheap and really good quality.\n\n\n\n",
+      "last_modified": "2024-02-23T12:40:16+00:00"
     }
   ],
   "collections": []

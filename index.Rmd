@@ -2,12 +2,12 @@
 title: "skateboards"
 image: "Images/skateboard.jpg"
 links:
-  - label: '<i class="fa-solid fa-arrow-up fa-rotate-by" style="color: #000000; --fa-rotate-angle: 55deg;""></i>'
+  - label:               
     url: 'https://twitter.com/R_Girls_School target="_blank"'
   - label: '<i class="fab fa-github"></i> GitHub'
     url: 'https://github.com/R-Girls target="_blank"'
   - label: '<i class="fas fa-envelope"></i> Contact Us'
-    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+    url: "mailto:anisah.ahmed_22@greenoak.bham.sch.uk"
 output:
   postcards::trestles
 site: distill::distill_website  
