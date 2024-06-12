@@ -2,7 +2,7 @@
 title: "skateboards"
 image: "Images/skateboard.jpg"
 links:
-  - label:               
+  - label: '<i class="fa-brands fa-instagram"></i> Instagram'          
     url: 'https://twitter.com/R_Girls_School target="_blank"'
   - label: '<i class="fab fa-github"></i> GitHub'
     url: 'https://github.com/R-Girls target="_blank"'

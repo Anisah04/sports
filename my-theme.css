@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Permanent+Marker&display=swap');
+
 
 /* base variables */
 
@@ -28,10 +30,10 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    Lobster;
-  --mono-font:       Lobster;
-  --body-font:       Lobster;
-  --navbar-font:     Lobster;  /* websites + blogs only */
+  --heading-font:    Permanent Marker;
+  --mono-font:       Permanent Marker;
+  --body-font:       Permanent Marker;
+  --navbar-font:     Permanent Marker;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/

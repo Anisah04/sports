@@ -1,10 +1,11 @@
 ---
 title: "About this site"
 description: |
-I made this website so that people can go on to our website and find out more information about our stores and our skateboards and skating equipment
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+I made this website so that people can go on to our website and find out more information about our stores and our skateboards and skating equipment
